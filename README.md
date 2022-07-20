@@ -10,10 +10,10 @@ The goal of competition is solve multi-classification task: we have text corpora
 
 | File or Folder | Content |
 | --- | --- |
-| russe-wsi-kit | original repo with data and benchmarks|
-| Assignment_template_v10.ipynb | jupyter notebook contains solution and used model describtions|
-| math_lectures.model | weights for one of the models|
-| active_res.png, wiki_res.png, btc_res.png | pictures for importing in jupyter notebook |
+| data | folder contains datasets for classification, originally was got from (competition)[https://codalab.lisn.upsaclay.fr/competitions/786]  |
+| NNLP-HW1.ipynb | jupyter notebook contains solution and used model describtions|
+| results | folder contains output of the models for submit and pictures for visualisation theoretical part in jupyter notebook |
+| utils | folder contain best classical ml params according to grid search |
 
 ## Results
 
