@@ -1,4 +1,4 @@
-# RuArg-2020
+# RuArg-2022
 
 Repo for solution of competition [Argument Mining Competition (RuArg-2022)](https://codalab.lisn.upsaclay.fr/competitions/786) as a task for Homework of Neural Natural Language Processing course @ Skoltech '22.
 
